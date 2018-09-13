@@ -1,6 +1,6 @@
 def Pakistan(self, province, district):
-    self.province = province
-    self.district = district
+    self.province = p
+    self.district = d
     
 def Data(self):
     print("I live in Pakistan", self.province, "and ", self.district)
